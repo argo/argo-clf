@@ -1,4 +1,4 @@
-##Argo Common Log Formatter
+## Argo Common Log Formatter
 
 Just a logger! Just spits logs to STDOUT for the time being.
 
